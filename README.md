@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
