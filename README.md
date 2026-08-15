@@ -72,4 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinash497/leetcode-solutions/tree/master/0001-two-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
