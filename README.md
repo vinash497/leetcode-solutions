@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
