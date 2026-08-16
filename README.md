@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinash497/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinash497/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinash497/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinash497/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vinash497/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vinash497/leetcode-solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
