@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinash497/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
