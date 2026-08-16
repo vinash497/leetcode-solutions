@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vinash497/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/vinash497/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0498-diagonal-traverse](https://github.com/vinash497/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/vinash497/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/vinash497/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/vinash497/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinash497/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinash497/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -146,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vinash497/leetcode-solutions/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
