@@ -1,14 +1,17 @@
 class Solution {
 public:
-    char findTheDifference(std::string& s, std::string& t) {
-        // Intuition: sort both strings and find first mismatch
-        std::sort(s.begin(), s.end());
-        std::sort(t.begin(), t.end());
+    char findTheDifference(string s, string t) {
+      int sum1=0;
+      int sum2=0;
 
-        int i = 0;
-        while (i < s.length() && s[i] == t[i]) {
-            i++;
-        }
-        return t[i];
+      for(char ch:s){
+        sum1+=ch;
+      }
+
+      for(char ch:t){
+        sum2+=ch;
+      }
+
+      return (char)(sum2-sum1);
     }
 };
