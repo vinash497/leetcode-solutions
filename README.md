@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinash497/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2942-find-words-containing-character](https://github.com/vinash497/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vinash497/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinash497/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinash497/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Primality Test
 |  |
 | ------- |
@@ -214,8 +217,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
