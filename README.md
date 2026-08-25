@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vinash497/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinash497/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -177,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Primality Test
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
