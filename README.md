@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vinash497/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinash497/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vinash497/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Counting Sort
 |  |
 | ------- |
