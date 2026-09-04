@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vinash497/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vinash497/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2942-find-words-containing-character](https://github.com/vinash497/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vinash497/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vinash497/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vinash497/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vinash497/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
@@ -208,15 +212,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -248,11 +255,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Prime Factorization
+|  |
+| ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
