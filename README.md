@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/vinash497/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/vinash497/leetcode-solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vinash497/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vinash497/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vinash497/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/vinash497/leetcode-solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vinash497/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vinash497/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vinash497/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/vinash497/leetcode-solutions/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinash497/leetcode-solutions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3115-maximum-prime-difference](https://github.com/vinash497/leetcode-solutions/tree/master/3115-maximum-prime-difference) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/vinash497/leetcode-solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Primality Test
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vinash497/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/vinash497/leetcode-solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 ## Counting Sort
 |  |
 | ------- |
