@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vinash497/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vinash497/leetcode-solutions/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/vinash497/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vinash497/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinash497/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vinash497/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vinash497/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
 ## Design
 |  |
@@ -284,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
