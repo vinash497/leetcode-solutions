@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vinash497/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
 | [0735-asteroid-collision](https://github.com/vinash497/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/vinash497/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/vinash497/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/vinash497/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/vinash497/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
