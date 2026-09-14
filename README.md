@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vinash497/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/vinash497/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/vinash497/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0866-prime-palindrome) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vinash497/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vinash497/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
