@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinash497/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vinash497/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/vinash497/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinash497/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vinash497/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/vinash497/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/vinash497/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinash497/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/vinash497/leetcode-solutions/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vinash497/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/vinash497/leetcode-solutions/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
