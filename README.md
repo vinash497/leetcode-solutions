@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/vinash497/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/vinash497/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vinash497/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vinash497/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1706-where-will-the-ball-fall](https://github.com/vinash497/leetcode-solutions/tree/master/1706-where-will-the-ball-fall) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinash497/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/vinash497/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/vinash497/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/vinash497/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/vinash497/leetcode-solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vinash497/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vinash497/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vinash497/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vinash497/leetcode-solutions/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
