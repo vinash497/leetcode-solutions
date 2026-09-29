@@ -15,4 +15,12 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
