@@ -9,6 +9,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [0020-valid-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0409-longest-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinash497/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -16,6 +17,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinash497/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -24,6 +26,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinash497/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -54,4 +57,5 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinash497/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
