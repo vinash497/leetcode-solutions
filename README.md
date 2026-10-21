@@ -13,6 +13,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vinash497/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
