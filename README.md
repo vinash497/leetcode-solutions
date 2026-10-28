@@ -38,12 +38,14 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [1207-unique-number-of-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vinash497/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/vinash497/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +84,12 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
