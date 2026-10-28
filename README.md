@@ -39,6 +39,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [1207-unique-number-of-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vinash497/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/vinash497/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -90,6 +91,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Bit Manipulation
 |  |
 | ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
