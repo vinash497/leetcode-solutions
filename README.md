@@ -77,6 +77,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/vinash497/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/vinash497/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [2409-count-days-spent-together](https://github.com/vinash497/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
