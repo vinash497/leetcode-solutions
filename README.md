@@ -42,6 +42,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vinash497/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vinash497/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/vinash497/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -50,6 +51,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
+| [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
