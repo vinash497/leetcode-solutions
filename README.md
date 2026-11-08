@@ -40,6 +40,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinash497/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vinash497/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -63,6 +64,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/vinash497/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Backtracking
 |  |
@@ -107,20 +109,24 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
