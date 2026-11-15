@@ -42,6 +42,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vinash497/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vinash497/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vinash497/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -53,6 +54,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinash497/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -98,6 +100,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0367-valid-perfect-square](https://github.com/vinash497/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinash497/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/vinash497/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vinash497/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
@@ -139,4 +142,8 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vinash497/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
