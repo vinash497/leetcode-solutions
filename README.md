@@ -8,6 +8,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0020-valid-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vinash497/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vinash497/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vinash497/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -55,6 +56,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vinash497/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vinash497/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -76,6 +78,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0131-palindrome-partitioning](https://github.com/vinash497/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
