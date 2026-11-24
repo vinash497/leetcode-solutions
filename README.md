@@ -36,6 +36,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinash497/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0409-longest-palindrome](https://github.com/vinash497/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1207-unique-number-of-occurrences](https://github.com/vinash497/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/vinash497/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -73,6 +75,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +116,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/vinash497/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/vinash497/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/vinash497/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -160,4 +164,12 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vinash497/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
