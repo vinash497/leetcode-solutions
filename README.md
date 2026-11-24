@@ -38,6 +38,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/vinash497/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/vinash497/leetcode-solutions/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vinash497/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -79,6 +80,7 @@ LEETCODE-SOLUTIONS A comprehensive collection of LeetCode solutions covering Arr
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinash497/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/vinash497/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/vinash497/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vinash497/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/vinash497/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Greedy
